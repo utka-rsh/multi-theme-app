@@ -18,3 +18,8 @@
 .theme1 nav { @apply bg-white text-black; }
 .theme2 nav { @apply bg-black text-white; }
 .theme3 nav { @apply bg-blue-100 text-blue-900; }
+
+
+.theme2 .product-title {
+  color: black;
+}
