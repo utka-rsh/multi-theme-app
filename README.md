@@ -16,7 +16,7 @@ A responsive multi-page React + TypeScript app with 3 distinct themes (light, da
 
 ## 🚀 Live Demo
 
-👉 [https://utkarsh-product.netlify.app/](https://utkarsh-product.netlify.app/)
+👉 [https://multi-theme-productapp.netlify.app/](https://multi-theme-productapp.netlify.app/)
 
 ---
 
