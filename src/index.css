@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.theme1 {
+  @apply bg-white text-black font-theme1;
+}
+
+.theme2 {
+  @apply bg-black text-white font-theme2;
+}
+
+.theme3 {
+  @apply bg-blue-100 text-blue-900 font-theme3;
+}
+
+/* Navbar styles */
+.theme1 nav { @apply bg-white text-black; }
+.theme2 nav { @apply bg-black text-white; }
+.theme3 nav { @apply bg-blue-100 text-blue-900; }
